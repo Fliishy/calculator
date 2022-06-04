@@ -1,1 +1,21 @@
 /* stylesheet */
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#numberContainer {
+    max-width: 500px;
+}
+
+#display {
+    border: 1px solid black;
+}
+
+.button {
+    width: 100px;
+    height: 100px;
+    font-size: 22px;
+}
